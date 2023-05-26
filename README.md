@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver </h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
-- 🔭 I’m currently working on **my personal portfolio!**
+- 🔭 I’m currently working on *a personal portfolio for my Dad!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
