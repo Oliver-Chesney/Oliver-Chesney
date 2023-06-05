@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *a personal portfolio for my Dad!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/oliver-chesney/ </h3>
 <p align="left">
 </p>
 
