@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oliver </h1>
+<h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">A passionate full-stack developer from London</h3>
 <p align="center">- 🔭 I’m currently working on *a personal portfolio for my Dad!* </p>
 
