@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">A passionate full-stack developer from London</h3>
 <p align="center">- 🔭 I’m currently working on *a personal portfolio for my Dad!* </p>
+<p align="center">- 🔭 I’m currently working on *a personal portfolio for my Dad!* </p>
 
 
 <h3 align="center">Connect with me: https://www.linkedin.com/in/oliver-chesney/ </h3>
